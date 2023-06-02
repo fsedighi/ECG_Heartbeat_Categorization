@@ -1,0 +1,10 @@
+1. [CardioNet: An Efficient ECG Arrhythmia Classification System Using Transfer Learning](https://www.sciencedirect.com/science/article/pii/S2214579621000885)
+2. [ECG Heartbeat Arrhythmia Classification Using Time-Series Augmented Signals and Deep Learning Approach](https://www.sciencedirect.com/science/article/pii/S1877050920310231)
+3. [An effective data enhancement method for classification of ECG arrhythmia](https://www.sciencedirect.com/science/article/pii/S0263224122011745)
+4. [ECG signal feature extraction trends in methods and applications](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01075-1)
+5. [A Critical Review of Feature Extraction Techniques for ECG Signal Analysis](https://link.springer.com/article/10.1007/s40031-021-00606-5)
+6. [Performance Comparison of Imputation Methods for Heart Disease Prediction](https://link.springer.com/chapter/10.1007/978-3-030-96569-3_11)
+7. [Arrhythmia classification algorithm based on multi-head
+self-attention mechanism](https://www.sciencedirect.com/science/article/pii/S1746809422006607)
+8. [Timeseries classification with a Transformer model](https://keras.io/examples/timeseries/timeseries_classification_transformer/)
+9. [Implemented in Huggingface](https://huggingface.co/keras-io/timeseries_transformer_classification)
